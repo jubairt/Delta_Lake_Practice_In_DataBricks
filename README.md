@@ -127,9 +127,9 @@ A version is:
 
 Example idea:
 
-00000000000000000000.json → Version 0
-00000000000000000001.json → Version 1
-00000000000000000002.json → Version 2
+- 00000000000000000000.json → Version 0
+- 00000000000000000001.json → Version 1
+- 00000000000000000002.json → Version 2
 
 
 Each version describes:
